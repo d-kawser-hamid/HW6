@@ -1,0 +1,20 @@
+h1
+{fornt: size 30px;
+text-align: center;
+text-shadow: 13px 15px 1px;
+}
+
+body{background-color: aqua;}
+
+
+.box3{ height: 300px;
+    width: 300px;
+    background-color: rgb(57, 192, 192);
+position: relative;
+margin: 100px auto;
+border-radius: 25px  ;
+box-shadow: -15px -15px 15px rgba(241, 238, 238, 0.699), 15px 15px 15px;
+
+
+}
+
